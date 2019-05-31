@@ -60,7 +60,7 @@ svg.addEventListener("mouseup", function(event) {
 
 svg.addEventListener("mouseleave", function(event) {
     draw = false
-    // log('1')
+    log('1')
 })
 
 
